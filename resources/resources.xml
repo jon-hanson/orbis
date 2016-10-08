@@ -1,0 +1,10 @@
+<resources>
+    <bitmap id="LauncherIcon" filename="drawables/launcher_icon.png" />
+    <bitmap id="lightdial" filename="drawables/light_dial.png" />
+    <bitmap id="darkdial" filename="drawables/dark_dial.png" />
+    <fonts>
+        <font id="time" filename="fonts/time.fnt" filter="0123456789: " antialias="true" />
+        <font id="date" filename="fonts/date.fnt" filter=" 0123456789ADEFHIMNORSTUW" antialias="true" />
+        <font id="symbols" filename="fonts/symbols.fnt" antialias="true" />
+    </fonts>
+</resources>

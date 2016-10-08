@@ -1,0 +1,16 @@
+<strings>
+
+    <string id="AppName">Orbis</string>
+
+    <string id="day0">SUN</string>
+    <string id="day1">MON</string>
+	<string id="day2">TUE</string>
+    <string id="day3">WED</string>
+	<string id="day4">THU</string>
+    <string id="day5">FRI</string>
+	<string id="day6">SAT</string>
+
+    <string id="Theme">Theme</string>
+    <string id="ThemeLight">Light</string>
+    <string id="ThemeDark">Dark</string>
+</strings>
